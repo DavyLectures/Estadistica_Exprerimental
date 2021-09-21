@@ -1,0 +1,17 @@
+Metodo;Operario;Ordem;Tempo
+M1;Op1;Ord3;5
+M1;Op2;Ord4;10
+M1;Op3;Ord1;7
+M1;Op4;Ord2;9
+M2;Op1;Ord2;7
+M2;Op2;Ord3;10
+M2;Op3;Ord4;12
+M2;Op4;Ord1;8
+M3;Op1;Ord1;10
+M3;Op2;Ord2;18
+M3;Op3;Ord3;11
+M3;Op4;Ord4;14
+M4;Op1;Ord4;10
+M4;Op2;Ord1;14
+M4;Op3;Ord2;11
+M4;Op4;Ord3;9
